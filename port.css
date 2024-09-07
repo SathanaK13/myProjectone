@@ -1,0 +1,135 @@
+.bg-one
+{
+    background-image:url('images/girl.jpg');
+    height:100vh;
+    background-size:cover;
+    
+}
+.init_title
+{
+    color:crimson;
+}
+.name_title
+{
+    color:darkblue;
+}
+.com
+{
+    text-align: left;
+}
+.name
+{
+    color:darkblue;
+    margin-left: 100px;
+    margin-top: 100px;
+    font-size: 50px;
+}
+
+.all{
+
+background-color:#286f77 ;
+height:350px;
+width:400px;
+border-width:10;
+color:white;
+border-radius:20px;
+padding:30px;
+margin:20px;
+}
+.ser_cen
+{
+    text-align:center;
+}
+.ser_l
+{
+    text-align: left;
+}
+.ser_pic
+{
+    height: 80px;
+    width:80px;
+    margin:0px;
+    padding: 0px;
+}
+.ser_div
+{
+    height: 100vh;
+}
+.girl2
+{
+    height:300px;
+    width:200px;
+    padding-right: 20px;
+}
+.about_me
+{
+    height: 400px;
+    width:800px;  
+    padding: 20px;
+    margin: 90px;
+}
+.bt-res
+{
+    color:white;
+    background-color: crimson;
+    border-width: 0px;
+    height:30px;
+    width:120px;
+}
+.nav_bo
+{
+    background-color:#b8abd8;
+}
+.pro_st
+{
+    background-color: #286f77;
+    height: 250px;
+    width:450px;
+    color:white;
+    padding: 10px;
+    font-size:12px;
+}
+.pro_im
+{
+    height:250px;
+    width:450px;
+}
+.pro_D
+{
+    height: 100vh;
+}
+.con_im
+{
+    height:50px;
+    width:50px;
+    margin: 12px;
+
+}
+.con_div
+{
+    height:110px;
+    width:300px;
+    padding: 10px;
+        border-color:gray;
+    border-style:solid;
+    border-radius: 12px;
+    margin-right: 20px;
+}
+.con_who
+{
+    height: 70vh;
+    margin: 20px;
+}
+.f-bg
+{
+    background-color:#286f77;
+    color: white;
+}
+.f-m
+{
+    margin-right: 20px;
+}
+.width_nav
+{
+    font-weight: 900;
+}
